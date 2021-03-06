@@ -1,7 +1,7 @@
 # ultiflash
 
-I am designing a bash-based flash utility (called UltiFlash) that will leave all others behind in the dust, in terms of speed and flexibility.
-
+I am designing a bash-based flash utility (called UltiFlash) that will leave all others behind in the dust, in terms of speed and flexibility.  
+![screenshot.png](https://cdn.discordapp.com/attachments/752577535375704224/817546525302587402/2021-03-05-174312_1920x1080_scrot.png)  
 It will do everything RPi Imager does, SD Card Copier does, and RonR's `image-backup` does. It will be both GUI and CLI.  
 In addition, it will support file conversions (.img, .zip, and .xz), incremental backups, have the most informative progress bar, verifying capabilities, artificial intelligence, and multiple download connections for maximum speed. Despite all these features, it'll be very easy to use.
 
