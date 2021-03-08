@@ -1,9 +1,12 @@
-# ultiflash
+# UltiFlash
 
-I am designing a bash-based flash utility (called UltiFlash) that will leave all others behind in the dust, in terms of speed and flexibility.  
+I am designing a bash-based flashing utility (called UltiFlash) that will leave all others behind in the dust, in terms of speed and flexibility.  
 ![screenshot.png](https://cdn.discordapp.com/attachments/752577535375704224/817546525302587402/2021-03-05-174312_1920x1080_scrot.png)  
-It will do everything RPi Imager does, SD Card Copier does, and RonR's `image-backup` does. It will be both GUI and CLI.  
+It will do everything RPi Imager does, Etcher does, SD Card Copier does, and RonR's `image-backup` does. It will be both GUI and CLI.  
 In addition, it will support file conversions (.img, .zip, and .xz), incremental backups, have the most informative progress bar, verifying capabilities, artificial intelligence, and multiple download connections for maximum speed. Despite all these features, it'll be very easy to use.
+
+Planning began around May 2020, after the general public was skeptical to [the flashing benchmarks](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=272365).  
+[Development began](https://github.com/ptitSeb/box86/issues/296#issuecomment-783524463) on Feb 22 2021.
 
 ## Combinations available:
 
